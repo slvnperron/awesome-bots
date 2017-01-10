@@ -28,7 +28,8 @@
 ## Hack a Bot
 - https://howdy.ai/botkit/  
 - https://github.com/amitevski/botframework  
-- https://spacy.io/  
+- https://spacy.io/
+- https://botpress.io/
 - https://github.com/tensorflow/models/tree/master/syntaxnet  
 - http://www.nltk.org/  
 - https://github.com/nlp-compromise/nlp_compromise  
